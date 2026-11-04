@@ -15,3 +15,8 @@ this is a repository which contains all the typescript basics.
 - Understand `playwright.config.ts`
 - Configure browsers, base URL, timeouts, and traces
 - Run tests with Playwright Test and Playwright UI mode
+
+```bash
+npm init playwright@latest
+npx playwright test
+npx playwright test --ui
