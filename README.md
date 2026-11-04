@@ -10,4 +10,8 @@ JavaScript basics, ES6+, modules, and asynchronous programming
 # typescript - practice
 this is a repository which contains all the typescript basics.
 
-# playwright - practice
+# playwright - setup
+- Install Playwright and create a new project
+- Understand `playwright.config.ts`
+- Configure browsers, base URL, timeouts, and traces
+- Run tests with Playwright Test and Playwright UI mode
